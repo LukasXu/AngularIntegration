@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "list-spfs-client-side-solution",
+    "id": "082cfb77-8c82-4ce2-a5d0-8fa3eaddc0d6",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "list-spfs description"
+      },
+      "longDescription": {
+        "default": "list-spfs description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "list-spfs Feature",
+        "description": "The feature that activates elements of the list-spfs solution.",
+        "id": "c8866976-d68a-431a-b1e7-520562d3ce39",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/list-spfs.sppkg"
+  }
+}

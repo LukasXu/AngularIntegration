@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "list-spfs",
+    "libraryId": "082cfb77-8c82-4ce2-a5d0-8fa3eaddc0d6",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "list-spfs",
+    "solutionShortDescription": "list-spfs description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

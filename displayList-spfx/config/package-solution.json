@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "display-doc-client-side-solution",
+    "id": "4dae5fb4-3261-4d91-aeb7-3320f6635c41",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "display-doc description"
+      },
+      "longDescription": {
+        "default": "display-doc description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "display-doc Feature",
+        "description": "The feature that activates elements of the display-doc solution.",
+        "id": "1eef9f9b-c608-4de5-9ad8-6eb5e07c7592",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/display-doc.sppkg"
+  }
+}

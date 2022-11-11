@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "display-doc",
+    "libraryId": "4dae5fb4-3261-4d91-aeb7-3320f6635c41",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "display-doc",
+    "solutionShortDescription": "display-doc description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
